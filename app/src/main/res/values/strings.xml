@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Go-Trip</string>
+    <string name="warning_content">Travel regulations during pandemic COVID-19</string>
+    <string name="popular_travel">Popular Travel</string>
+    <string name="pandawa_beach">Pandawa Beach</string>
+    <string name="detail_pandawa">Pandawa Beach is a picture-perfect Bali beach with beautiful white sand and sparkling clear water. The shore of the beach stretches for just over half a mile along the island’s south coast of Bukit Peninsula and is located  read more</string>
+    <string name="title_detail_location">Detail Location :</string>
+    <string name="detail_location">Pandawa Beach is a picture-perfect Bali beach with beautiful white sand and sparkling clear water. The shore of the beach stretches for just over half a mile along the island’s south coast of Bukit Peninsula and is located</string>
+    <string name="book_now">Book Now</string>
+</resources>
